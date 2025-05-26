@@ -1,0 +1,14 @@
+import java.util.*;
+public class javamain {
+    public static void main(String[] args){
+        System.out.println("my name is saksham srivastava");
+
+        Scanner sc =  new Scanner(System.in);
+        // String s = sc.next();
+        // System.out.println(s);
+
+        String t = sc.nextLine();
+        System.out.println(t);
+
+    }
+}
